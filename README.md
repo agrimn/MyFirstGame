@@ -1,3 +1,3 @@
-# RotatingCubesWithBranch
+# My First game
 
-Sample game testbed with branch integrated.
+Created a sample game to demonstrate Branch.
